@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.05b4401f.css",
-    "main.js": "/static/js/main.ae1e4f1a.js",
-    "index.html": "/index.html",
-    "main.05b4401f.css.map": "/static/css/main.05b4401f.css.map",
-    "main.ae1e4f1a.js.map": "/static/js/main.ae1e4f1a.js.map"
+    "main.css": "/fazt-react-taskapp-localstorage/static/css/main.05b4401f.css",
+    "main.js": "/fazt-react-taskapp-localstorage/static/js/main.ae1e4f1a.js",
+    "index.html": "/fazt-react-taskapp-localstorage/index.html",
+    "main.05b4401f.css.map": "/fazt-react-taskapp-localstorage/static/css/main.05b4401f.css.map",
+    "main.ae1e4f1a.js.map": "/fazt-react-taskapp-localstorage/static/js/main.ae1e4f1a.js.map"
   },
   "entrypoints": [
     "static/css/main.05b4401f.css",
